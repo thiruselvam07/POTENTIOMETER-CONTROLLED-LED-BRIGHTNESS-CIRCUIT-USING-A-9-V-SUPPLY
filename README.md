@@ -25,7 +25,7 @@ The circuit was assembled on a solderless breadboard. The LED and 1 kΩ resistor
 
 The LED was observed to glow when the circuit was powered.
 
-![circuit](circuitt.jpeg)
+![circuit](circiutt.jpeg)
 
                           Breadboard circuit setup with potentiometer and 9 V battery
 
